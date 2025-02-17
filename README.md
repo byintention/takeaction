@@ -3,9 +3,11 @@ Things we can do about things instead of doomscrolling and posting links to bad 
 
 Remember the powers that be will try and dissuade us from reducing our working hours and how much we spend with their corporate friends. There are various defeatist arguments employed by the media and parroted by idiots to try and make us give up; It's too hard/expensive, what about China, blah blah.
 
-There are also benefits beyond external change to all this. It feels good to get our agency back and doing something instead of just giving up and staring at corporate social media while wearing clothes made by slaves & sipping a sugar water drink.
+Some of these things are quick and cheap/free to change in our lives. There are also benefits beyond external change to all this. It feels good to get our agency back and doing something instead of just giving up and staring at corporate social media while wearing clothes made by slaves & sipping a sugar water drink.
 
 TO-DO; Rankings of effort/impact/likely cost impact
+
+**Bold** things are guestimated as being low effort & high impact
 
 ## Shopping
 - https://www.which.co.uk/ magazine
@@ -19,8 +21,8 @@ TO-DO; Rankings of effort/impact/likely cost impact
 - Brands who are at least trying - Chocolonely, Rapanui, Howies, BAM, Miniml, Bio-D
 - Reduce supermarket usage - they exploit us, workers AND their suppliers and are primarily focused on investor profits  
 - Preloved clothes - Vinted et al, eBay
-- Sign up and use your local library
-- Use and volunteer at repair cafes
+- Sign up and use your local **library**
+- Use and volunteer at **repair cafes**
 - Libraries of things
 - 3D printing repair parts 
 
@@ -35,10 +37,10 @@ TO-DO; Rankings of effort/impact/likely cost impact
 ## Money
 - Refuse to work for bad companies
 - Reduce support for tax dodging companies - Amazon, BT, Starbucks & all the usual suspects https://www.ethicalconsumer.org/ethicalcampaigns/tax-justice/tax-avoidance-rankings
-- Coop bank, Triodos, Ecology. Not Barclays, HSBC etc. who often fund fossil fuels and weapons
+- **Banking**: Coop bank, Triodos, Ecology. Not Barclays, HSBC etc. who often fund fossil fuels and weapons
 - How good are Revolut, Monzo, Starling?
 - Make My Money Matter - https://makemymoneymatter.co.uk/banks/
-- Green pension or at least green plan with current provider (probably at least some greenwash with that though)
+- **Green pension** or at least green plan with current provider (probably at least some greenwash with that though)
 - Avoid crypto or AI - both an environmental disaster due to power usage, and borderline scam in a lot of cases
 - Reduce (non mortgage) debt
 - 'Time banking'
@@ -49,12 +51,12 @@ TO-DO; Rankings of effort/impact/likely cost impact
 - Murena De-Googled Fairphone - fair supply chain, user repairable, reduces privacy invasion from Android
 - https://b4rn.org.uk/ rural broadband cooperative
 - Use a VPN - free Proton works well, Mullvad is cheap and good
-- Switch from Chrome and Chrome based browsers like Edge, Ecosia, Brave etc - Vivaldi or Firefox work great
+- **Switch from Chrome** and Chrome based browsers like Edge, Ecosia, Brave etc - Vivaldi or Firefox work great
 - Adblocker for your browser
 - Avoid main telecoms providers - use GiffGaff, EcoTalk and/or Phone Coop if you can
 - No need for latest phones and computers - make them last, use reconditioned or repaired items
 - Use Linux if you can - most folks don't know how to use Windows anyway, so Linux probably won't be any harder.  Ubuntu works fine on most recentish laptops/PCs and can keep older machines in use rather than landfill
-- Don't use AI or support companies that do - based on theft, huge power and water usage etc.
+- **Don't use AI** or support companies that do - based on theft, huge power and water usage etc.
 - Community energy - solar, wind turbines 
 
 ## Fact checking
