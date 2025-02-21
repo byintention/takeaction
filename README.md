@@ -56,7 +56,7 @@ TO-DO; Rankings of effort/impact/likely cost impact
 - Avoid main telecoms providers - use GiffGaff, EcoTalk and/or Phone Coop if you can
 - No need for latest phones and computers - make them last, use reconditioned or repaired items
 - Use Linux if you can - most folks don't know how to use Windows anyway, so Linux probably won't be any harder.  Ubuntu works fine on most recentish laptops/PCs and can keep older machines in use rather than landfill
-- **Don't use AI** or support companies that do - based on theft, huge power and water usage etc.
+- **Don't use AI** or support companies that do - based on theft, huge power and water usage
 - Community energy - solar, wind turbines 
 
 ## Fact checking
@@ -68,25 +68,29 @@ TO-DO; Rankings of effort/impact/likely cost impact
 ## Activism
 ### Organising
 - Join the Green Party and organise with other like minded folks - they offer an actual alternative to corporate captured 'managed democracy'
+- https://timetoassemble.org/
+- https://hopenothate.org.uk/ - exposing and countering right wing nonsense
 - Not XR or Just Stop Oil - they are actively annoying the people they should be speaking on behalf of and their reputations are trashed. 
 - Animal rights groups
 - Adbusters, Badvertising and other anti-advert groups that stop giant ad screens going up in your town
-- (anti) SUV Alliance (and Tyre Extinguishers if you're brave..)
-- Cycling pressure groups, Critical Mass
 - Local MPs?
-- https://hopenothate.org.uk/ - exposing and countering right wing nonsense
 - Precious Plastic - local recycling of plastic into products to reduce landfill and exporting/burning of waste
 - Support or volunteer at local food banks
 - https://goodlawproject.org/
   
 ### Individuals
-- Sharing things that help on socials, not just sharing more problems
+- Sharing things that help on social media, not just sharing more problems
 - Speaking up to racism and other bigotry when friends or neighbours do it, doesn't have to cause a conflict if done right. Eg 'Say maaaate to a mate' https://www.london.gov.uk/maaate
 - Laugh at racists when they try and recruit us
 - Complain to OFCOM about GBNews and other grifters when they spout lies 
 - Be aware of the Alt Right pipeline and how to counter it https://archive.org/details/the-alt-right-playbook-how-to-radicalize-a-normiee
 - Include and look after the older generations
-- Reduce or stop flying
+
+### Travel
+- (Anti) SUV Alliance
+- Tyre Extinguishers, if you're brave..
+- Cycling pressure groups, Critical Mass
+- Reduce or stop flying https://flightfree.co.uk/
 - Reduce car usage and use public transport, walk, cycle
 
 ## Further resources
