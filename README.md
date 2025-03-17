@@ -57,7 +57,8 @@ TO-DO; Rankings of effort/impact/likely cost impact
 - No need for latest phones and computers - make them last, use reconditioned or repaired items
 - Use Linux if you can - most folks don't know how to use Windows anyway, so Linux probably won't be any harder.  Ubuntu works fine on most recentish laptops/PCs and can keep older machines in use rather than landfill
 - **Don't use AI** or support companies that do - based on theft, huge power and water usage
-- Community energy - solar, wind turbines 
+- Community energy - solar, wind turbines
+- https://degooglisons-internet.org/en/
 
 ## Fact checking
 - https://fullfact.org/
