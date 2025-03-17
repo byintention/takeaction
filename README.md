@@ -49,6 +49,7 @@ TO-DO; Rankings of effort/impact/likely cost impact
 - Boycott Meta (Facebook, Instagram, Whatsapp), X/Twitter, Google, Amazon streaming/web services, Microsoft
 - Framework laptops - user repairable and upgradeable
 - Murena De-Googled Fairphone - fair supply chain, user repairable, reduces privacy invasion from Android
+- https://www.shift.eco/en/ - Phones, tablets, screens, speakers, headphones, ebikes
 - https://b4rn.org.uk/ rural broadband cooperative
 - Use a VPN - free Proton works well, Mullvad is cheap and good
 - **Switch from Chrome** and Chrome based browsers like Edge, Ecosia, Brave etc - Vivaldi or Firefox work great
